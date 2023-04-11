@@ -1,3 +1,4 @@
 # CSC-7810-Homework-2
 
-<embed src="file:///C:/Users/joshr/Downloads/CSC%207810_HW2%20(2)%20(1).pdf" width="500" height="375" type='application/pdf'>
+<iframe src="https://drive.google.com/file/d/1JdZLSXjE1kucNQC7o23jbb2qyDPGEVvo/view?usp=share_link" width="100%" height="500px"></iframe>
+
